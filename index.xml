@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>看片网</title>
+    <link>https://kanpianwang.github.io/</link>
+    <description>Recent content on 看片网</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh_cn</language>
+    <lastBuildDate>Sun, 12 Feb 2023 20:29:33 +0800</lastBuildDate><atom:link href="https://kanpianwang.github.io/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>
